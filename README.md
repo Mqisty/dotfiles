@@ -1,4 +1,5 @@
-**WIP, most likely made for me**
+**WIP, mostly made for me** \
+**A lot of the configs are messy, sorry about that, working on cleaning them up**
 
 - **WM:** [bspwm](https://github.com/baskerville/bspwm)
 - **OS:** [Arch Linux](https://archlinux.org)
